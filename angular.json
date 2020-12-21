@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "demo-app"
+  "defaultProject": "demo-app",
+  "cli": {
+    "analytics": "056aa835-b8d5-4f45-be0d-d97d7f534573"
+  }
 }
